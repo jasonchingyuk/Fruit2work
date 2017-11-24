@@ -1,0 +1,107 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "300",
+        "name": "Monash Clayton",
+        "location": "VIC",
+        "group": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.134464,
+          -37.911473
+        ],
+        "type": "Point"
+      },
+      "id": "08643a3b52a304ff191321ac9ba5ec48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "70",
+        "name": "Monash Caulfield",
+        "location": "VIC",
+        "group": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.045837,
+          -37.876823
+        ],
+        "type": "Point"
+      },
+      "id": "4a31bc5b41ad9ed7ef7bda90ab805954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "200",
+        "name": "Monash Clayton",
+        "location": "VIC",
+        "group": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.134464,
+          -37.911473
+        ],
+        "type": "Point"
+      },
+      "id": "576e884aeb0c33f41169976929fefd2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "50",
+        "name": "Monash Caulfield",
+        "location": "VIC",
+        "group": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.045837,
+          -37.876823
+        ],
+        "type": "Point"
+      },
+      "id": "5a126103224d7d17dcb7f26fdf1178b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "100",
+        "name": "RMIT University",
+        "location": "VIC",
+        "group": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965117,
+          -37.808943
+        ],
+        "type": "Point"
+      },
+      "id": "5b7e7d22fa14fab74ad20bf1c926adae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "150",
+        "name": "RMIT University",
+        "location": "VIC",
+        "group": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965117,
+          -37.808943
+        ],
+        "type": "Point"
+      },
+      "id": "fd5d890555435c607e77a54d2ea7835f"
+    }
+  ],
+  "type": "FeatureCollection"
+}

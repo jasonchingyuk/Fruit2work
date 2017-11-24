@@ -1,0 +1,53 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "100",
+        "name": "RMIT University",
+        "location": "VIC"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965117,
+          -37.808943
+        ],
+        "type": "Point"
+      },
+      "id": "3ff9a2935221a60c1e21f59b640a07e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "50",
+        "name": "Monash Caulfield",
+        "location": "VIC"
+      },
+      "geometry": {
+        "coordinates": [
+          145.045837,
+          -37.876823
+        ],
+        "type": "Point"
+      },
+      "id": "5e5a252f997825fd0eff946e4fe1e684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sum": "200",
+        "name": "Monash Clayton",
+        "location": "VIC"
+      },
+      "geometry": {
+        "coordinates": [
+          145.134464,
+          -37.911473
+        ],
+        "type": "Point"
+      },
+      "id": "7e5aca9fa54592f992178e9a10d15eb4"
+    }
+  ],
+  "type": "FeatureCollection"
+}

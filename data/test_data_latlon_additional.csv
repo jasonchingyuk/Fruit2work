@@ -1,0 +1,9 @@
+latitude,longitude,sum,name,location,group
+-37.876823,145.045837,50,Monash Caulfield,VIC,1
+-37.911473,145.134464,200,Monash Clayton,VIC,1
+-37.808943,144.965117,100,RMIT University,VIC,1
+-37.876823,145.045837,100,Monash Caulfield,VIC,2
+-37.911473,145.134464,300,Monash Clayton,VIC,2
+-37.808943,144.965117,150,RMIT University,VIC,2
+
+

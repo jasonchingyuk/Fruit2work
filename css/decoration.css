@@ -1,0 +1,153 @@
+
+#mapid { 
+	height: 400px;
+	position: relative;
+	width: 600px;
+	margin: 0 auto;	
+	}
+
+h1 {
+    color: orange;
+}
+
+h4 {
+    color: orange;
+     width: 1250px; margin: 0 auto;
+}
+
+
+h3 {
+	font-size : 20px;
+	text-align: left;
+	}
+	
+.leaflet-grab {
+    cursor: crosshair;
+}
+
+.noUi-horizontal {
+	width : 400px;
+}
+
+#About {padding-top:50px;height:500px; }
+#Contact {padding-top:50px;height:250px;}
+
+.page-section {
+	width: 100%;
+	min-height: 300px;
+	padding: 50px 0;
+	border-bottom: 10px solid #fff;
+}
+
+html,
+body {
+    overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+body {
+    padding-top: 100px;
+    
+}
+footer {
+    padding: 30px 0;
+}
+
+/*
+ * Custom styles
+ */
+.navbar-brand {
+    font-size: 24px;
+    color: orange !important;
+}
+
+.navbar-container {
+    padding: 20px 0 20px 0;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #fff;
+    border-color: #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,.8);
+    
+}
+
+.navbar-brand.fixed-theme {
+    font-size: 18px;
+    
+}
+
+.nav a{
+    color: orange !important;
+    font-size: 15px !important;
+    }
+
+.navbar-container.fixed-theme {
+    padding: 0;
+    
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
+
+
+
+.navbar-default .navbar-nav > .active > .hover >a{
+    color: #fff !important;
+    background-color: orange !important;
+    border-radius: 10px 10px 10px 10px;
+   
+}
+
+
+.topspacing{
+    
+     margin-top: -60px;
+    
+}
+
+
+
+#Contact {
+                background-color: rgb(238, 238, 238);
+                margin-bottom: -185px;
+
+               
+            }
+
+
+
+
+#about {
+    padding:0; margin:0;
+}
+
+.center-role-form {
+    width: fit-content;
+    text-align: center;
+    margin: 1em auto;
+}
+
+div.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+.d {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+
+.d1 {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+
